@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, eu sou o Igor!
+Estou à procura de uma oportunidade para iniciar minha carreira na área da TI.
 
-<!--
-**IgorWolf99/IgorWolf99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniritter.
 
-Here are some ideas to get you started:
+Java é minha principal tecnologia, mas também mantenho um interesse ativo em outras tecnologias, como bancos de dados, além de também buscar ter um contato na área de front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Estou empolgado para aprender, crescer e me desenvolver como um ótimo profissional da área!
+
+## Principais projetos de estudo desenvolvidos
+- [ATM System](https://github.com/IgorWolf99/ATM-System): Sistema para caixa eletrônico onde foram aplicados os principais conceitos da programação orientada a objetos.
+- [Parking Spot Control](https://github.com/IgorWolf99/ParkingSpotControl): API desenvolvida para o gerenciamento de vagas de estacionamento, aplicando as operações de criação, leitura, atualização e exclusão (CRUD) no banco de dados.
+- [Projeto UML](https://github.com/IgorWolf99/ProjetoUML): Projeto final do curso de Modelagem de Dados UML, onde é projetado um Diagrama de Classes UML e, em seguida, é desenvolvida uma API utilizando o Spring Boot, seguindo esse diagrama.
+- [Galeria de Viagens](https://github.com/IgorWolf99/GaleriaViagens): Página Web simples onde foi aplicado os conceitos básicos de HTML e CSS.
+
+Irei criar mais repositórios e compartilhar meus projetos conforme vou aprendendo.

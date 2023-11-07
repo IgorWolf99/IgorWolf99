@@ -3,7 +3,7 @@ Estou à procura de uma oportunidade para iniciar minha carreira na área da TI.
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uniritter.
 
-Java é minha principal tecnologia, mas também mantenho um interesse ativo em outras tecnologias, como bancos de dados, além de também buscar ter um contato na área de front-end.
+Java é minha principal tecnologia, mas também mantenho um interesse ativo em outras tecnologias, além de também buscar ter um contato na área de front-end.
 
 #### Estou empolgado para aprender, crescer e me desenvolver como um ótimo profissional da área!
 
